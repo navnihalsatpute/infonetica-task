@@ -39,6 +39,6 @@ Check current step and history
 - You can't act once the final step is reached
 - Only valid actions from current step are allowed
 
-# Notes
+### Notes
 - This project uses in-memory storage, which means all data will reset if the app restarts.
 - It does not use any external database or frameworks — only built-in .NET 8 and C# features.
