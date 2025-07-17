@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\navni\\OneDrive\\Documents\\GitHub\\infonetica-task\\WorkflowEngine.csproj": {}
+    "C:\\Users\\navni\\Downloads\\WorkflowEngine\\WorkflowEngine.csproj": {}
   },
   "projects": {
-    "C:\\Users\\navni\\OneDrive\\Documents\\GitHub\\infonetica-task\\WorkflowEngine.csproj": {
+    "C:\\Users\\navni\\Downloads\\WorkflowEngine\\WorkflowEngine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\navni\\OneDrive\\Documents\\GitHub\\infonetica-task\\WorkflowEngine.csproj",
+        "projectUniqueName": "C:\\Users\\navni\\Downloads\\WorkflowEngine\\WorkflowEngine.csproj",
         "projectName": "WorkflowEngine",
-        "projectPath": "C:\\Users\\navni\\OneDrive\\Documents\\GitHub\\infonetica-task\\WorkflowEngine.csproj",
+        "projectPath": "C:\\Users\\navni\\Downloads\\WorkflowEngine\\WorkflowEngine.csproj",
         "packagesPath": "C:\\Users\\navni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\navni\\OneDrive\\Documents\\GitHub\\infonetica-task\\obj\\",
+        "outputPath": "C:\\Users\\navni\\Downloads\\WorkflowEngine\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\navni\\AppData\\Roaming\\NuGet\\NuGet.Config"
