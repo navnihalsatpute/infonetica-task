@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\navni\\Downloads\\WorkflowEngine\\WorkflowEngine.csproj",
+      "projectUniqueName": "C:\\Users\\navni\\OneDrive\\Documents\\GitHub\\infonetica-task\\WorkflowEngine.csproj",
       "projectName": "WorkflowEngine",
-      "projectPath": "C:\\Users\\navni\\Downloads\\WorkflowEngine\\WorkflowEngine.csproj",
+      "projectPath": "C:\\Users\\navni\\OneDrive\\Documents\\GitHub\\infonetica-task\\WorkflowEngine.csproj",
       "packagesPath": "C:\\Users\\navni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\navni\\Downloads\\WorkflowEngine\\obj\\",
+      "outputPath": "C:\\Users\\navni\\OneDrive\\Documents\\GitHub\\infonetica-task\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\navni\\AppData\\Roaming\\NuGet\\NuGet.Config"
