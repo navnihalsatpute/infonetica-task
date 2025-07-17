@@ -1,0 +1,6 @@
+C:\Users\navni\OneDrive\Documents\GitHub\infonetica-task\obj\Debug\net8.0\WorkflowEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\navni\OneDrive\Documents\GitHub\infonetica-task\obj\Debug\net8.0\WorkflowEngine.AssemblyInfoInputs.cache
+C:\Users\navni\OneDrive\Documents\GitHub\infonetica-task\obj\Debug\net8.0\WorkflowEngine.AssemblyInfo.cs
+C:\Users\navni\OneDrive\Documents\GitHub\infonetica-task\obj\Debug\net8.0\WorkflowEngine.csproj.CoreCompileInputs.cache
+C:\Users\navni\OneDrive\Documents\GitHub\infonetica-task\obj\Debug\net8.0\WorkflowEngine.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\navni\OneDrive\Documents\GitHub\infonetica-task\obj\Debug\net8.0\WorkflowEngine.sourcelink.json
